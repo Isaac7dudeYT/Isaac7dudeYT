@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaac7dudeYT
 - 👀 I’m interested in ur mom
-- 🌱 I’m currently learning pythion and node.js
+- 🌱 I’m currently learning python and node.js
 - 💞️ I’m looking to collaborate on a discord bot.
 - 📫 My discord is Isaac7dude#1234
 
